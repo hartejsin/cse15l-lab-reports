@@ -22,3 +22,11 @@ Hi my name is Hartej
 1. One
 2. Two
 3. Three
+
+Horizontal rule: Be nice to others 
+
+```
+# code block
+print '3 backticks or'
+print 'indent 4 spaces'
+```
