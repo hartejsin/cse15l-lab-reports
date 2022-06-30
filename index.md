@@ -32,3 +32,11 @@ Horizontal rule: Be nice to others
 print '3 backticks or'
 print 'indent 4 spaces'
 ```
+
+**We are now in VS Code**
+
+1.I
+
+2.Am
+
+3.Trying something new
