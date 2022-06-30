@@ -13,7 +13,7 @@ Hi my name is Hartej
 
 [Link](http://youtube.com)
 
-![Image](http://https://en.wikipedia.org/wiki/Portable_Network_Graphics#/media/File:PNG_transparency_demonstration_1.png)
+![Image](http://https://en.wikipedia.org/wiki/Portable_Network_Graphics#/media/File:PNG_transparency_demonstration_1.png/)
 
 > Blockquote
 
