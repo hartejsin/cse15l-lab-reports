@@ -18,3 +18,7 @@ Hi my name is Hartej
 * Task 1
 * Task 2
 * Task 3
+
+1. One
+2. Two
+3. Three
